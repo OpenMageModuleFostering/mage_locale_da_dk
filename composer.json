@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Mage_Locale_da_DK",
+    "type": "magento-module",
+    "license": "AFL-v3.0",
+    "homepage": "",
+    "description": "Dansk sprogpakke til Magento / Danish Language Pack for Magento",
+    "authors": [
+    {
+        "name": "TRIC Solutions",
+        "email": "info@tric.dk"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
